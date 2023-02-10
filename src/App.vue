@@ -2,6 +2,7 @@
 import Announce from './components/pages/Announce.vue'
 import Subjects from './components/pages/Subjects.vue'
 import AddDrop_Subjects from './components/pages/AddDrop_Subjects.vue'
+import NotFound from './components/NotFound.vue'
 
 const routes = {
   '/Announce' : Announce,
