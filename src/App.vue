@@ -32,12 +32,13 @@ export default {
 <template>
   <!-- <a href="#/non-existent-path">Broken Link</a> -->
   <!-- <component :is="currentView" /> -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;700;900&display=swap">
 
   <!-- Header -->
     <nav class="navbar navbar-expand-lg navbar-light shadow">
         <div class="container d-flex justify-content-between align-items-center">
 
-            <a class="navbar-brand text-success logo h1 align-self-center" href="#/Announce">
+            <a class="navbar-brand text-success logo h1 align-self-center" href="https://www.mju.ac.th/en/" target="_blank">
                 MJU
             </a>
 
