@@ -1,7 +1,12 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 
-// import './assets/main.css'
+import './assets/css/main.css'
+import './assets/css/templatemo.css'
+import './assets/css/slick-theme.css'
+import './assets/css/fontawesome.css'
+import './assets/css/custom.css'
+
 
 createApp(App).mount('#app')
 

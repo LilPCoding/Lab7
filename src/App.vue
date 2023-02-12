@@ -53,10 +53,10 @@ export default {
                             <a class="nav-link" href="#/Announce">Announce</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#/Subjects">Subjects</a>
+                            <a class="nav-link" href="#/Subjects">List of subjects</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#/AddDrop_Subjects">Add-Drop</a>
+                            <a class="nav-link" href="#/AddDrop_Subjects">Add/Drop courses</a>
                         </li>
                     </ul>
                 </div>
