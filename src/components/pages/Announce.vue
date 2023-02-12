@@ -113,7 +113,7 @@
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
                         <a href="https://erp.mju.ac.th/informationDetail.aspx?newsId=4966&lang=en" target="_blank">
-                            <img src="	https://erp.mju.ac.th/picture/information/dec5b6c2cfac482f87e6fdcdeb67f8abs.jpg" class="card-img-top" alt="...">
+                            <img src="https://erp.mju.ac.th/picture/information/dec5b6c2cfac482f87e6fdcdeb67f8abs.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <a href="https://erp.mju.ac.th/informationDetail.aspx?newsId=4966&lang=en" target="_blank" class="h2 text-decoration-none text-dark">Architecture</a>
