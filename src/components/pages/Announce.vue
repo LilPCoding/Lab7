@@ -108,7 +108,7 @@
     </div>
     <div class="row">
       <div class="col-12 col-md-4 p-5 mt-3">
-        <a href="https://admissions.mju.ac.th/www/"
+        <a href="https://admissions.mju.ac.th/www/" target="_blank" 
           ><img
             src="https://www.mju.ac.th/en/images/pic1.png"
             height="344px"
@@ -119,7 +119,7 @@
         <hr />
       </div>
       <div class="col-12 col-md-4 p-5 mt-3">
-        <a href="http://www.grad.mju.ac.th/apply/"
+        <a href="http://www.grad.mju.ac.th/apply/" target="_blank" 
           ><img
             src="https://www.mju.ac.th/en/images/2%20copy.png"
             height="344px"
@@ -381,18 +381,7 @@
     </div>
 
     <div class="w-100 bg-black py-3">
-      <div class="container">
-        <div class="row pt-2">
-          <div class="col-12">
-            <p class="text-left text-light">
-              Copyright &copy; 2021 Company Name | Designed by
-              <a rel="sponsored" href="https://templatemo.com" target="_blank"
-                >TemplateMo</a
-              >
-            </p>
-          </div>
-        </div>
-      </div>
+      
     </div>
   </footer>
   <!-- End Footer -->

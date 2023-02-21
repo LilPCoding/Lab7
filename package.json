@@ -10,12 +10,15 @@
   "dependencies": {
     "bootstrap": "^5.3.0-alpha1",
     "bootstrap-icons": "^1.10.3",
+    "pinia": "^2.0.32",
     "sass": "^1.58.0",
+    "sweetalert2": "^11.7.2",
     "vue": "^3.2.45",
+    "vue-final-modal": "^4.0.4",
     "vue-router": "^4.1.6"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
-    "vite": "^4.0.0"
+    "vite": "^4.1.3"
   }
 }
